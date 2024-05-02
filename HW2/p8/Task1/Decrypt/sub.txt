@@ -1,0 +1,2 @@
+"ytn" -> "THE"
+"vup" -> "AND"
